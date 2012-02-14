@@ -1,4 +1,9 @@
-= Columbia Center For New Media Teaching And Learning =
+---
+title: CCNMTL
+---
+
+Columbia Center For New Media Teaching And Learning
+===================================================
 
 This is our github page. We'll add some content and stuff here soon,
 don't worry.
